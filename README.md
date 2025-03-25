@@ -13,7 +13,7 @@ This guide explains how to use AutoScraper with Python for web scraping:
 
 ## What Is AutoScraper?
 
-[AutoScraper](https://github.com/alirezamika/autoscraper) is a Python library that simplifies web scraping by automatically identifying and extracting data from websites based on example queries, eliminating the need for manual HTML inspection. It efficiently handles dynamic websites with minimal setup.
+[AutoScraper](https://github.com/alirezamika/autoscraper) is a Python library that simplifies web scraping by automatically identifying and extracting data from websites based on example queries, eliminating the need for manual HTML inspection. It efficiently handles dynamic websites with minimal setup. Learn more about scraping dynamic websites [here](https://brightdata.com/blog/how-tos/scrape-dynamic-websites-python).
 
 ## Setting up a Project
 
